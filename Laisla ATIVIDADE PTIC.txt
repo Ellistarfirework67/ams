@@ -1,0 +1,15 @@
+Sinais de alerta para deepfakes
+No caso do deepfake, é possivela identificação do conteudo observando-se os mesmo sinais das FAKE NEWS. No entanto em caso de videos, é importante analisar, também, características como:
+* OLHAR-avaliar se a pessoa pisca naturalmente e se tem olhar focado em um ponto ou na câmera ;
+* BOCA- observar se a articulação da boca o que é falado parece natural, se há sincronia entre som e movimentos;
+* EXPRESSÕES FACIAIS-analisar se as expressões faciais parecem naturais;
+* .ÁUDIO-verificar se o audio parece natural, com entonação e fluência, ou se a voz parece robótica, além de observar se não há ruidos estranhos;
+* O QUE ESTÁ SENDO DITO-considerar se o discurso é pertinente á pessoa,ou seja, se é esperado daquela pessoa, ou provica estranheza
+
+
+
+Ias atuam contra e a favor da desinformação
+As Ias vêm sendo usadas para a geração de conteúdos falsos, despejando na internt uma quantidade enorme de textos, áudios, imagens e videos fakes. As IAs também começaram a ser usadas na identificação de fake news e deepfakes. Acompznhe diferentes perspectivas dessa questão nas noticias a seguir.
+
+                            FAKE NEWS CRIADAS POR IA SÃO MAIS CONVICENTES 
+Tradicionalmente, a produção de fake news exigia tempo, esforço e colaboração. As máquinas de propagandas estataus russas, chinesas e norte-coreanas empregavam milhares de pessoas para criar conteúdos falsos on-line que 
